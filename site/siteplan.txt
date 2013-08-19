@@ -1,0 +1,26 @@
+HOME:
+Links to home, simple enough.
+
+ABOUT:
+About Page
+- Who we are
+- What we do
+- Our Sponsors
+
+MODS:
+Dropdown menu about our mods
+
+FORUMS:
+Link to forums.
+
+DOWNLOADS:
+Downloads directory, showing every version and it's changelog.
+
+OFFICIAL PACKS:
+Any official servers & modpacks get listed here.
+
+FAQs:
+Frequently Asked Questions!
+
+Contact Us:
+Contact Ticket-creating Form, IRC Chat embedded
