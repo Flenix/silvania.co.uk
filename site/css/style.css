@@ -1,7 +1,7 @@
 body {
 	font-family: 'ariel', sans-serif;
 	color: #000000;
-	background: #CCCCCC;
+	background: #FFFFFF;
 }
 
 a {
@@ -19,12 +19,13 @@ h2 {
 }
 
 #header {
-	background: #808080;
+	background: #DDDDDD;
+	font-family:'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Arial, san-serif;
+	text-align:left;
 	height: 46px;
 	position: fixed;
 	width: 100%;
-	border-bottom: 4px solid #404040;
-	border-top: 4px solid #404040;
+	border-bottom: 2px solid #AAAAAA;
 }
 
 .btn-news {
@@ -43,16 +44,12 @@ h2 {
 	color: #404040;
 	font-weight: bold;
 	font-size: 1.0em;
-	background: #808080;
-	padding: 10px 10px;
-	margin: 10px, 0px;
-	position: relative;
-	top: -5px;
+	padding: 0px 10px;
+	margin: 0px, 0px;
 }
 
 .btn:hover {
 	color: #000000;
-	background: #808080;
 }
 
 .pri-nav {
@@ -68,15 +65,11 @@ h2 {
 .sec-nav {
 	list-style: none;
 	float: right;
-	position: relative;
-	top: -5px;
 }
 
 .sec-nav li {
 	float: left;
 	margin-right: 20px;
-	position: relative;
-	top: -5px;
 }
 
 ul.nav {
@@ -106,8 +99,8 @@ ul.nav li {
 }
 
 #copyright {
-	border-top: 4px solid #404040;
-	background: #808080;
+	border-top: 2px solid #AAAAAA;
+	background: #DDDDDD;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;

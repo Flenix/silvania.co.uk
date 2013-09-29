@@ -1,11 +1,11 @@
 body {
 	font-family: 'ariel', sans-serif;
 	color: #000000;
-	background: #FFFFFF;
+	background: #CCCCCC;
 }
 
 a {
-	color: #666666;
+	color: #404040;
 	text-decoration: none;
 }
 
@@ -18,33 +18,17 @@ h2 {
 	font-size: 1.5em;
 }
 
-#ad {
-	width: 100%;
-	position:absolute
-	z-index: 1;
-}
-
 #header {
-	background: #CCCCCC;
+	background: #808080;
 	height: 46px;
 	position: fixed;
 	width: 100%;
-	border-bottom: 4px solid #888888;
-	border-top: 4px solid #888888;
-	z-index: 2;
-}
-
-
-#mods {
-	text-align: center;
-}
-
-.img:hover {
-	box-shadow: 0px 0px 50px 10px #000000;
+	border-bottom: 4px solid #404040;
+	border-top: 4px solid #404040;
 }
 
 .btn-news {
-	color: #666666;
+	color: #404040;
 	background: #0000FF url('img/texture.png') no-repeat left top;
 	padding: 15px 30px;
 	margin: 40px, 0px;
@@ -56,10 +40,10 @@ h2 {
 }
 
 .btn {
-	color: #666666;
+	color: #404040;
 	font-weight: bold;
 	font-size: 1.0em;
-	background: #CCCCCC;
+	background: #808080;
 	padding: 10px 10px;
 	margin: 10px, 0px;
 	position: relative;
@@ -68,7 +52,7 @@ h2 {
 
 .btn:hover {
 	color: #000000;
-	background: #CCCCCC;
+	background: #808080;
 }
 
 .pri-nav {
@@ -89,20 +73,6 @@ h2 {
 }
 
 .sec-nav li {
-	float: left;
-	margin-right: 20px;
-	position: relative;
-	top: -5px;
-}
-
-.upper-nav {
-	list-style: none;
-	float: left;
-	position: relative;
-	top: -5px;
-}
-
-.upper-nav li {
 	float: left;
 	margin-right: 20px;
 	position: relative;

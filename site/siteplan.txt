@@ -1,26 +1,66 @@
+Root Dir
 HOME:
-Links to home, simple enough.
+Simple home page. Undesigned as of right now, probably logo, news, twitter and links.
 
-ABOUT:
-About Page
-- Who we are
-- What we do
-- Our Sponsors
+Links to other Homes:
+Links across top of the home page. Each goes to a different site part (dir):
+- Home
+- Mods (Dropdown - Each Mod)
+- Games (Dropdown - Game Servers/Games, extra menus)
+- Media (Dropdown - Videos/Animation, Music, Modelling, Graphic Design, Web Design, Portfolio)
+- Social
 
-MODS:
-Dropdown menu about our mods
+About:
+Info on what Silvania does. Links to sponsors (eg DoanVPS)
 
-FORUMS:
-Link to forums.
+Contact:
+Contact information. Web email address, contact form
 
-DOWNLOADS:
-Downloads directory, showing every version and it's changelog.
+Mods Dir:
+- Add Downloads, Partners and Wiki to homebar
+Mods/Home:
+- Overview of each mod
+- Latest news scroller
 
-OFFICIAL PACKS:
-Any official servers & modpacks get listed here.
 
-FAQs:
-Frequently Asked Questions!
+Mods/FlenixRoads:
+Mods/FlenixCities:
+Mods/FlenixMoney:
+Mods/Remula
+Mods/SilvaniaMod
+Mods/PowerGrid
+Info, independant download links.
 
-Contact Us:
-Contact Ticket-creating Form, IRC Chat embedded
+Mods/Downloads:
+Tweetdeck-style downloads page as on drawn plan
+
+Mods/Partners
+List of servers & modpacks
+Top of list my servers, then sponsored servers/packs
+List then ordered by most recently updated.
+Content managed by login system.
+
+Mods/Wiki:
+- Wiki page with mod information.
+
+Games Dir:
+Games/Servers:
+Games/Servers/Minecraft:
+- Standard/Spout
+- Ultimatum/Forge
+- Aftermath/Vanilla
+
+Games/Game 1
+
+Games/Game 2
+
+Media Dir:
+- Videos & Animation
+- Modelling
+- Graphic Design
+- Web Design
+- Portfolio
+
+Social Dir:
+Social is different. Kind of like Facebook, integration across the site.
+Forum tab in the corner of Social.
